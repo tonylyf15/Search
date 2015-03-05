@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>Search1</name>
+=======
 	<name>Search</name>
+>>>>>>> refs/remotes/origin/Version0.0
 	<comment></comment>
 	<projects>
 	</projects>
